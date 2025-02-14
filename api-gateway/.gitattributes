@@ -1,0 +1,4 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+# Ignore mysql.sock and mysql_keycloak_data directory
+api-gateway/volume-data/mysql_keycloak_data/
